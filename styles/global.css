@@ -1,0 +1,14 @@
+:root {
+
+}
+
+
+* {
+    /* border: 1px solid black !important; */
+}
+
+.bg-cover {
+    background-image: url('../assets/img/pexels-chris-lee-12456043.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
